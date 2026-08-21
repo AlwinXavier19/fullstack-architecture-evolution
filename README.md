@@ -4,17 +4,15 @@
 
 ---
 
+<p align="center">
+  <img src="a_high_resolution_technical_architecture_infograph.png" alt="Full-Stack Architecture Evolution — Next.js, Django REST, JWT, Docker, Azure DNS, ACR, AKS and Azure DevOps CI/CD" width="100%">
+</p>
+
 ## 🚀 Overview
 
 This project documents the complete modernization of a full-stack web application.
 
 The application evolved from a traditional Django server-rendered architecture into a production-ready platform with clear separation between the frontend, backend, infrastructure, deployment, and authentication layers.
-
-<p align="center">
-  <img src="a_high_resolution_technical_architecture_infograph.png" alt="Full-Stack Architecture Evolution — Next.js, Django REST, JWT, Docker, Azure DNS, ACR, AKS and Azure DevOps CI/CD" width="100%">
-</p>
-
-
 
 ### Final Technology Stack
 
