@@ -1,8 +1,6 @@
 # 🏗️ Full-Stack Architecture & DevOps Evolution
 
-> A complete engineering journey from a Django monolithic application to a modern, separated, containerized, Kubernetes-deployed platform with automated CI/CD and JWT authentication.
-
----
+> A complete engineering journey from a Django monolithic application to a separated, containerized, Azure-hosted platform with JWT authentication, Azure Kubernetes Service (AKS), and automated CI/CD.
 
 <p align="center">
   <img src="a_high_resolution_technical_architecture_infograph.png" alt="Full-Stack Architecture Evolution — Next.js, Django REST, JWT, Docker, Azure DNS, ACR, AKS and Azure DevOps CI/CD" width="100%">
